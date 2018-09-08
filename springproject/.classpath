@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/easymock-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/junit-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/objenesis-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/org.springframework.asm-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/org.springframework.beans-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/org.springframework.context.support-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/org.springframework.context-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/org.springframework.core-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/org.springframework.expression-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/org.springframework.instrument.tomcat-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/org.springframework.instrument-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/org.springframework.jdbc-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/org.springframework.jms-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/org.springframework.orm-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/org.springframework.oxm-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/org.springframework.test-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/org.springframework.transaction-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/org.springframework.web.servlet-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/A07216trng_M5C.07.16/Downloads/Simulation/Libraries/org.springframework.web-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
