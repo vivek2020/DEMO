@@ -14,9 +14,16 @@ public class TesterProject {
     System.out.println("Employee id "+employee.getId());
     System.out.println("Employee name "+employee.getName());
     System.out.println("Employee email "+employee.getEmail());
+
+    System.out.println("Hello");
+
     System.out.println("Hello World");
     
+
     System.out.println("Nice Man");
+
+    System.out.println("Nice");
+
 	}
 
 }
