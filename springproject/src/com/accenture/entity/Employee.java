@@ -5,6 +5,9 @@ public class Employee {
 	private int id;
 	private String name;
 	private String email;
+	
+	public Employee()
+	{}
 	public int getId() {
 		return id;
 	}
