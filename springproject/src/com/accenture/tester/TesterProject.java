@@ -20,6 +20,8 @@ public class TesterProject {
     System.out.println("Hello World");
     
     System.out.println("Nice");
+    
+    System.out.println("ADM");
 
 	}
 
