@@ -19,9 +19,18 @@ public class TesterProject {
 
     System.out.println("Hello World");
     
+
+    System.out.println("Nice Man");
+
     System.out.println("Nice");
     
+
+    System.out.println("Adding");
+    
+    System.out.println("Added ADM schema entry");
+
     System.out.println("ADM");
+    System.out.println("Added");
 
 	}
 
