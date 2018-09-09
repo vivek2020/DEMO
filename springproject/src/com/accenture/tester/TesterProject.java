@@ -30,8 +30,7 @@ public class TesterProject {
     System.out.println("Added ADM schema entry");
 
     System.out.println("ADM");
-    
-    System.out.println("Changes");
+    System.out.println("Added");
 
 	}
 
