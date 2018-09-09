@@ -24,9 +24,12 @@ public class TesterProject {
 
     System.out.println("Nice");
     
+
     System.out.println("Adding");
     
     System.out.println("Added ADM schema entry");
+
+    System.out.println("ADM");
 
 	}
 
