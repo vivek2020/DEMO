@@ -5,7 +5,7 @@ public class Employee {
 	private int id;
 	private String name;
 	private String email;
-	
+	private int mobile;
 	public Employee()
 	{}
 	public int getId() {
@@ -25,6 +25,12 @@ public class Employee {
 	}
 	public void setEmail(String email) {
 		this.email = email;
+	}
+	public int getMobile() {
+		return mobile;
+	}
+	public void setMobile(int mobile) {
+		this.mobile = mobile;
 	}
 	
 	
