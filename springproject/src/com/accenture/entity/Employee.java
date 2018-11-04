@@ -5,6 +5,7 @@ public class Employee {
 	private int id;
 	private String name;
 	private String email;
+	private String address;
 	
 	public Employee()
 	{}
@@ -25,6 +26,12 @@ public class Employee {
 	}
 	public void setEmail(String email) {
 		this.email = email;
+	}
+	public String getAddress() {
+		return address;
+	}
+	public void setAddress(String address) {
+		this.address = address;
 	}
 	
 	
