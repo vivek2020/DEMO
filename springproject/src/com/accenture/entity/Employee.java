@@ -6,7 +6,7 @@ public class Employee {
 	private String name;
 	private String email;
 	private String address;
-	
+	private String certifications;
 
 	private int mobile;
 
@@ -41,6 +41,12 @@ public class Employee {
 	}
 	public void setMobile(int mobile) {
 		this.mobile = mobile;
+	}
+	public String getCertifications() {
+		return certifications;
+	}
+	public void setCertifications(String certifications) {
+		this.certifications = certifications;
 	}
 	
 	
