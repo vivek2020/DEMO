@@ -7,6 +7,9 @@ public class Employee {
 	private String email;
 	private String address;
 	
+
+	private int mobile;
+
 	public Employee()
 	{}
 	public int getId() {
@@ -31,7 +34,13 @@ public class Employee {
 		return address;
 	}
 	public void setAddress(String address) {
-		this.address = address;
+		this.address = address;}
+		
+	public int getMobile() {
+		return mobile;
+	}
+	public void setMobile(int mobile) {
+		this.mobile = mobile;
 	}
 	
 	
